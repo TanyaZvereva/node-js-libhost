@@ -1,0 +1,23 @@
+{
+  "name": "node-js-libhost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanyaZvereva/node-js-libhost.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanyaZvereva/node-js-libhost/issues"
+  },
+  "homepage": "https://github.com/TanyaZvereva/node-js-libhost#readme",
+  "dependencies": {
+    "@tanyazvereva/node": "^1.0.0"
+  }
+}
